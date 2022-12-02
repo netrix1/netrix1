@@ -1,5 +1,4 @@
 - 👋 Oi eu sou o Everson xD
-- 👶 Entou aprendendo Laravel(de um lado) e next.js(de outro lado) 😂.
 - 🐘 Já trabalho com PHP(ainda tenho que aprender as implementação do PHP8 ♾️).
 - ☕ Tambem já trabalho com Javascript, jquery, React.JS(apanhando mais trabalho 😂😂😂).
 - 🎨 Adoro CSS/SASS(o qeu me faz ficar em cima do muro entre o back e front-end).
