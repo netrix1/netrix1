@@ -1,8 +1,9 @@
 - 👋 Oi eu sou o Everson xD
-- 🐘 Já trabalho com PHP(ainda tenho que aprender as implementação do PHP8 ♾️).
-- ☕ Tambem já trabalho com Javascript, jquery, React.JS(apanhando mais trabalho 😂😂😂).
-- 🎨 Adoro CSS/SASS(o qeu me faz ficar em cima do muro entre o back e front-end).
+- 🐘 Sou dev PHP (Isso se resuma em Laravel, migação do php 5.6 para o 8 e responder se posso ajudar no design quando terminar ￣へ￣).
+- ☕ Tambem já trabalho com Javascript, jquery, React.JS (apanhando mais trabalho 😂😂😂).
+- 🎨 Adoro CSS/SASS(o que ainda me faz ficar em cima do muro entre o back e front-end).
 - ❇️ Bora progamar junto, pelo menos chato não vai ser hahaha.
+- ✨ 2026 já tá logo ai e eu pensando se vou pro réveillon de branco ou vermelho U.u
 
 ---
 ps. tenho que tinhar as teias de aranha daqui. Meus repo tá tudo abandonado 😲.   
