@@ -1,5 +1,5 @@
 - 👋 Oi eu sou o Everson xD
-- 🐘 Sou dev PHP (Isso se resuma em Laravel, migação do php 5.6 para o 8 e responder se posso ajudar no design quando terminar ￣へ￣).
+- 🐘 Sou dev PHP (Isso se resume a Laravel, migação do php 5.6 para o 8 e responder se posso ajudar no design quando terminar).
 - ☕ Tambem já trabalho com Javascript, jquery, React.JS (apanhando mais trabalho 😂😂😂).
 - 🎨 Adoro CSS/SASS(o que ainda me faz ficar em cima do muro entre o back e front-end).
 - ❇️ Bora progamar junto, pelo menos chato não vai ser hahaha.
